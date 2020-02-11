@@ -1,0 +1,26 @@
+ body {
+     background: black;
+ }
+ img {
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.talk {
+    margin-left: 125px;
+} 
+h3 {
+    margin-top: 20px;
+    border: 1px solid white;
+    width: 300px;
+    height: 300px;
+    color: white;
+    padding: 10px;
+}
+.col-sm-12 {
+    margin-left: 20px;
+}
+.btn-light {
+    margin-top: 20px;
+}
